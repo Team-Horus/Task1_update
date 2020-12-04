@@ -1,0 +1,236 @@
+{
+  "num_attacks": 35,
+  "configs0": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.08_task1",
+    "eps": 0.08
+  },
+
+  "configs1": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.15_task1",
+    "eps": 0.15
+  },
+
+  "configs2": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.20_task1",
+    "eps": 0.20
+  },
+
+  "configs3": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.25_task1",
+    "eps": 0.25
+  },
+
+  "configs4": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.30_task1",
+    "eps": 0.30
+  },
+
+  "configs5": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.40_task1",
+    "eps": 0.40
+  },
+
+  "configs6": {
+    "attack": "pgd",
+    "description": "PGD_eps0.08_Veps_task1",
+    "eps": 0.08
+  },
+
+  "configs7": {
+    "attack": "pgd",
+    "description": "PGD_eps0.15_Veps_task1",
+    "eps": 0.15
+  },
+
+  "configs8": {
+    "attack": "pgd",
+    "description": "PGD_eps0.20_Veps_task1",
+    "eps": 0.20
+  },
+
+  "configs9": {
+    "attack": "pgd",
+    "description": "PGD_eps0.25_Veps_task1",
+    "eps": 0.25
+  },
+
+  "configs10": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_Veps_task1",
+    "eps": 0.30
+  },
+
+  "configs11": {
+    "attack": "pgd",
+    "description": "PGD_eps0.40_Veps_task1",
+    "eps": 0.40
+  },
+
+  "configs12": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_estep_0.15_task1",
+    "eps": 0.30,
+    "eps_step": 0.15
+  },
+
+  "configs13": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_estep_0.10_task1",
+    "eps": 0.30,
+    "eps_step": 0.10
+  },
+
+  "configs14": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_estep_0.06_task1",
+    "eps": 0.30,
+    "eps_step": 0.06
+  },
+
+  "configs15": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_estep_0.03_task1",
+    "eps": 0.30,
+    "eps_step": 0.03
+  },
+
+  "configs16": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_estep_0.02_task1",
+    "eps": 0.30,
+    "eps_step": 0.02
+  },
+
+  "configs17": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_estep_0.015_task1",
+    "eps": 0.30,
+    "eps_step": 0.015
+  },
+
+  "configs18": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_max_iter_5_task1",
+    "eps": 0.30,
+    "max_iter": 5
+  },
+
+  "configs19": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_max_iter_7_task1",
+    "eps": 0.30,
+    "max_iter": 7
+  },
+
+  "configs20": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_max_iter_10_task1",
+    "eps": 0.30,
+    "max_iter": 10
+  },
+
+  "configs21": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_max_iter_15_task1",
+    "eps": 0.30,
+    "max_iter": 15
+  },
+
+  "configs22": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30_max_iter_20_task1",
+    "eps": 0.30,
+    "max_iter": 20
+  },
+
+  "configs23": {
+    "attack": "bim",
+    "description": "BIM_eps0.08_max_iter_60_task1",
+    "eps": 0.08,
+    "max_iter": 60
+  },
+
+  "configs24": {
+    "attack": "bim",
+    "description": "BIM_eps0.15_max_iter_60_task1",
+    "eps": 0.15,
+    "max_iter": 60
+  },
+
+  "configs25": {
+    "attack": "bim",
+    "description": "BIM_eps0.20_max_iter_60_task1",
+    "eps": 0.20,
+    "max_iter": 60
+  },
+
+  "configs26": {
+    "attack": "bim",
+    "description": "BIM_eps0.25_max_iter_60_task1",
+    "eps": 0.25,
+    "max_iter": 60
+  },
+
+  "configs27": {
+    "attack": "bim",
+    "description": "BIM_eps0.30_max_iter_60_task1",
+    "eps": 0.30,
+    "max_iter": 60
+  },
+
+  "configs28": {
+    "attack": "bim",
+    "description": "BIM_eps0.40_max_iter_60_task1",
+    "eps": 0.40,
+    "max_iter": 60
+  },
+
+  "configs29": {
+    "attack": "bim",
+    "description": "BIM_eps0.08_max_iter_100_task1",
+    "eps": 0.08,
+    "max_iter": 100
+  },
+
+  "configs30": {
+    "attack": "bim",
+    "description": "BIM_eps0.15_max_iter_100_task1",
+    "eps": 0.15,
+    "max_iter": 100
+  },
+
+  "configs31": {
+    "attack": "bim",
+    "description": "BIM_eps0.20_max_iter_100_task1",
+    "eps": 0.20,
+    "max_iter": 100
+  },
+
+  "configs32": {
+    "attack": "bim",
+    "description": "BIM_eps0.25_max_iter_100_task1",
+    "eps": 0.25,
+    "max_iter": 100
+  },
+
+  "configs33": {
+    "attack": "bim",
+    "description": "BIM_eps0.30_max_iter_100_task1",
+    "eps": 0.30,
+    "max_iter": 100
+  },
+
+  "configs34": {
+    "attack": "bim",
+    "description": "BIM_eps0.40_max_iter_100_task1",
+    "eps": 0.40,
+    "max_iter": 100
+  }
+
+}
